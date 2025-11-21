@@ -15,7 +15,7 @@
 
 ###  Typescript 
 * https://www.interviewbit.com/typescript-interview-questions/
-https://www.geeksforgeeks.org/typescript/typescript-interview-questions/
+* https://www.geeksforgeeks.org/typescript/typescript-interview-questions/
 
 ### Html
 * https://www.interviewbit.com/html-interview-questions/
