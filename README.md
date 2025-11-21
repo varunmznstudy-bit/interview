@@ -34,7 +34,7 @@ https://www.geeksforgeeks.org/typescript/typescript-interview-questions/
 ### rxjs
 
 
-## Backend
+## Backend* 
 ### java
 * https://github.com/mertsaner/java-interview-questions
 * https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#java-interview-questions-answers
@@ -49,37 +49,19 @@ https://www.geeksforgeeks.org/typescript/typescript-interview-questions/
 * javacodegeeks.com/spring-interview-questions-and-answers.html
 ### jsp/servlet 
 apache
-mysql
-postgres
-mongodb
-https://www.geeksforgeeks.org/mongodb/mongodb-tutorial/
-kafka
-zipkin
+### mysql
+### postgres
+### mongodb
+* https://www.geeksforgeeks.org/mongodb/mongodb-tutorial/
+### kafka
+### zipkin
 
--DevOps
-docker
-kubernetes
-aws
-grafana
-prometheus
-spring
-https://github.com/anjitagargi/JavaSpringBoot_Interview_Questions
-https://github.com/altafjava/spring-interview-questions-answers
-https://devinterview.io/questions/web-and-mobile-development/spring-interview-questions/
-https://www.interviewbit.com/spring-interview-questions/
-javacodegeeks.com/spring-interview-questions-and-answers.html
-jsp/servlet --
-apache
-mysql
-postgres
-mongodb
-https://www.geeksforgeeks.org/mongodb/mongodb-tutorial/
-kafka
-zipkin
+## DevOps
+### docker
+### kubernetes
+### aws
+### grafana
+### prometheus
 
--DevOps
-docker
-kubernetes
-aws
-grafana
-prometheus
+
+
